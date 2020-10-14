@@ -1,2 +1,4 @@
-# I really don't know why i am doing this
-print("New Python File")
+import pandas as pd
+import numpy as np
+
+print('Hello Capstone Project Course!')
